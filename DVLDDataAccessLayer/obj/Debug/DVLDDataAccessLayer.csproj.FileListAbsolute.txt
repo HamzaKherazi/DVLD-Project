@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\dev\Full Real Project\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.dll
+C:\Users\Admin\Desktop\dev\Full Real Project\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+C:\Users\Admin\Desktop\dev\Full Real Project\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dev\Full Real Project\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dev\Full Real Project\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.dll
+C:\Users\Admin\Desktop\dev\Full Real Project\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.pdb
